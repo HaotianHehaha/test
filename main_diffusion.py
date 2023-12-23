@@ -6,6 +6,7 @@ from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 import os
 
+
 current_directory = os.getcwd()
 folder_name_to = 'diffusion/deep'
 
